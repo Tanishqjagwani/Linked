@@ -1,0 +1,38 @@
+{
+  "name": "linkedinn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start ",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@reduxjs/toolkit": "^1.6.2",
+    "cra-template": "1.1.2",
+    "firebase": "^8.10.0",
+    "firebase-tools": "^9.18.0",
+    "metro": "^0.56.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-flip-move": "^3.0.4",
+    "react-redux": "^7.2.6",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
